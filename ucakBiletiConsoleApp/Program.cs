@@ -128,7 +128,7 @@ namespace ucakBiletiConsoleApp
                         {
 
                             Console.WriteLine($"{i}. koltuk {bus[i]} tarafından rezerve edilmiştir.");
-
+                        
                         }
                        
                     
